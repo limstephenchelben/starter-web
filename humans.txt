@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephen Lim	 limstephenchelben@gmail.com  @chellydidthat	
 
 # THANKS
 
